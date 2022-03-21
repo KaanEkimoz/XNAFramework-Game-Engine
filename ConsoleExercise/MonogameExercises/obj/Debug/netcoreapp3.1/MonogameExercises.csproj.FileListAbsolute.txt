@@ -1,0 +1,13 @@
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.csprojAssemblyReference.cache
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.AssemblyInfoInputs.cache
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.AssemblyInfo.cs
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.csproj.CoreCompileInputs.cache
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\bin\Debug\netcoreapp3.1\MonogameExercises.exe
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\bin\Debug\netcoreapp3.1\MonogameExercises.deps.json
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\bin\Debug\netcoreapp3.1\MonogameExercises.runtimeconfig.json
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\bin\Debug\netcoreapp3.1\MonogameExercises.runtimeconfig.dev.json
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\bin\Debug\netcoreapp3.1\MonogameExercises.dll
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\bin\Debug\netcoreapp3.1\MonogameExercises.pdb
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.dll
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.pdb
+C:\Users\yuusu\Desktop\MonoGame\ConsoleExercise\MonogameExercises\obj\Debug\netcoreapp3.1\MonogameExercises.genruntimeconfig.cache

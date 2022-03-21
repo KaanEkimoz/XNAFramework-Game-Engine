@@ -1,0 +1,18 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Monogame/Painter_monogame/Content/PainterFont.spritefont","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/PainterFont.xnb","FontDescriptionProcessor","SpriteFontContent",2005,37922,0.201504
+"C:/Monogame/Painter_monogame/Content/snd_collect_points.wma","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/snd_collect_points.xnb","SoundEffectProcessor","SoundEffectContent",26426,122985,1.3275288
+"C:/Monogame/Painter_monogame/Content/snd_music.wma","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/snd_music.xnb","SongProcessor","SongContent",5142944,127,2.290936
+"C:/Monogame/Painter_monogame/Content/snd_shoot_paint.wav","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/snd_shoot_paint.xnb","SoundEffectProcessor","SoundEffectContent",296516,296577,1.426385
+"C:/Monogame/Painter_monogame/Content/spr_background.jpg","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_background.xnb","TextureProcessor","Texture2DContent",59952,1536085,0.1448399
+"C:/Monogame/Painter_monogame/Content/spr_ball_blue.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_ball_blue.xnb","TextureProcessor","Texture2DContent",1782,2021,0.1112414
+"C:/Monogame/Painter_monogame/Content/spr_ball_green.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_ball_green.xnb","TextureProcessor","Texture2DContent",1817,2021,0.0016628
+"C:/Monogame/Painter_monogame/Content/spr_ball_red.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_ball_red.xnb","TextureProcessor","Texture2DContent",1840,2021,0.0015422
+"C:/Monogame/Painter_monogame/Content/spr_can_blue.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_can_blue.xnb","TextureProcessor","Texture2DContent",12996,43681,0.0027423
+"C:/Monogame/Painter_monogame/Content/spr_can_green.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_can_green.xnb","TextureProcessor","Texture2DContent",12965,43681,0.0026434
+"C:/Monogame/Painter_monogame/Content/spr_can_red.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_can_red.xnb","TextureProcessor","Texture2DContent",13042,43681,0.004133
+"C:/Monogame/Painter_monogame/Content/spr_cannon_barrel.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_cannon_barrel.xnb","TextureProcessor","Texture2DContent",8921,38437,0.0023786
+"C:/Monogame/Painter_monogame/Content/spr_cannon_blue.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_cannon_blue.xnb","TextureProcessor","Texture2DContent",2538,4053,0.0014999
+"C:/Monogame/Painter_monogame/Content/spr_cannon_green.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_cannon_green.xnb","TextureProcessor","Texture2DContent",2593,4053,0.0015605
+"C:/Monogame/Painter_monogame/Content/spr_cannon_red.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_cannon_red.xnb","TextureProcessor","Texture2DContent",2515,4053,0.001041
+"C:/Monogame/Painter_monogame/Content/spr_gameover.jpg","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_gameover.xnb","TextureProcessor","Texture2DContent",57040,469561,0.0220021
+"C:/Monogame/Painter_monogame/Content/spr_lives.png","C:/Monogame/Painter_monogame/Content/bin/Windows/Content/spr_lives.xnb","TextureProcessor","Texture2DContent",3949,8905,0.0451325

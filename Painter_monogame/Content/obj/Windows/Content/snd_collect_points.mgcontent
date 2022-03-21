@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Monogame/Painter_monogame/Content/snd_collect_points.wma</SourceFile>
+  <SourceTime>2019-11-22T11:56:59+03:00</SourceTime>
+  <DestFile>C:/Monogame/Painter_monogame/Content/bin/Windows/Content/snd_collect_points.xnb</DestFile>
+  <DestTime>2022-01-15T21:13:44.5060124+03:00</DestTime>
+  <Importer>WmaImporter</Importer>
+  <ImporterTime>2020-08-10T16:17:54+03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2020-08-10T16:17:54+03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/background.jpg</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/ball.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/blue_ball.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/blue_block.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/green_block.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/grey_block.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/life.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/player_board.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/purple_block.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/red_block.png</File>
+    <File>C:/Users/yuusu/Desktop/Arcanoid Monogame/Arcanoid/Content/sprites/yellow_block.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
